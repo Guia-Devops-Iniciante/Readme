@@ -6,8 +6,8 @@ O conteúdo aqui agrupado foi selecionado com base em um roadmap de devops inici
 
 ## RoadMap de Conhecimentos para DevOps Iniciante
 
+Baseado no [Roadmap DevOps](https://roadmap.sh/devops) e no perfil do profissional DevOps Júnior traçado nas pesquisas realizadas para o TCC1, elaboramos o seguinte roadmap de conhecimentos que são essenciais ou aconselhaveis para quem deseja iniciar na área.
 
+![roadmapdevopsJunior drawio](https://user-images.githubusercontent.com/30262806/182920775-ba7dcd1e-947b-4d61-a315-c60ac8f62b4a.png)
 
 #falar dos repos escolhidos e como foram escolhidos (estrelas, forks etc)
-
-

@@ -57,5 +57,6 @@ Falar sobre o git
 
 ## Monitoramento e Gerenciamento de logs
 
+## Conhecimentos fora do RoadMap DevOps para entrevistas de Emprego
 
 

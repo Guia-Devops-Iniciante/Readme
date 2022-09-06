@@ -19,16 +19,43 @@ Para se tornar um profissional devops você precisa aprender conceitos relaciona
 
 Baseado no [Roadmap DevOps](https://roadmap.sh/devops) e no perfil do profissional DevOps Júnior traçado nas pesquisas realizadas para o TCC1, elaboramos o seguinte roadmap de conhecimentos que são essenciais ou aconselhaveis para quem deseja iniciar na área.
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/30262806/188673817-126ea1d1-f749-46c4-bf0a-dc02607bae3b.png">
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/30262806/188697339-de793e52-2d08-445d-bff6-4c586baab38c.png">
 
-# Por que utilizar este conteúdo
+## Por que utilizar este conteúdo?
 
-## Plano de Estudo (tipo um sumário)
+# Plano de Estudo (tipo um sumário)
 
 ## Como Utilizar o Plano de estudo
 
-## Linguagens de programação 
+## Linguagem de programação 
 
-O primeiro passo para quem deseja ingressar na carreira de DevOps é aprender uma linguagem de programação, de preferência uma linguagem de script. 
+O primeiro passo para quem deseja ingressar na carreira de DevOps é aprender uma linguagem de programação, de preferência uma linguagem de script. Neste roadmap recomendei Python como principal liguagem a ser aprendida primeiro por que através da análise de vagas realizada na parte 1 deste trabalho é possível observar que Python é um pré-requisito obrigatório para a grande maioria das vagas de DevOps Júnior, de 14 vagas observadas 7 pediam Pyhton e as outras 7 não especificavam uma linguagem de programação. De acordo com a [Pesquisa de Desenvolvimento  2021](https://insights.stackoverflow.com/survey/2021#developer-profile-key-territoriesfeita) pelo StackOverflow temos Python (48.24%) como a segunda linguagem de programação mais popular entre os desenvolvedores.
+
+Além de tudo isso a linguagem Python tem uma vasta documentação feita pela comunidade de Python que é muito engajada, isso facilita muito o aprendizado da linguagem, além disso Python tem uma sintaxe intuitiva e é uma linguagem muito robusta e completa.
+
+## Gerenciamento e Versionamento de Código
+
+Falar sobre o git
+
+## Gerenciamento de Servidores
+
+### Sistemas operacionais 
+
+## Trabalhar utilizando o Terminal
+
+## Redes e Protocolos
+
+## Servidores Web
+
+## Aprender ferramentas de CI/CD
+
+## Containers
+
+## Infra como Código
+
+## Provedores de Nuvem
+
+## Monitoramento e Gerenciamento de logs
+
 
 

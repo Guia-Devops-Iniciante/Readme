@@ -49,11 +49,23 @@ Falar sobre o git
 
 ## Aprender ferramentas de CI/CD
 
-## Containers
-
 ## Infra como Código
 
+### Containers
+
+Docker e Kubernetes
+
+### Ferramentas de gerenciamento de configurações
+
+Ansible, Chef, Salt, Puppet
+
+### Provisionamento de Infra
+
+Terraform
+
 ## Provedores de Nuvem
+
+AWS
 
 ## Monitoramento e Gerenciamento de logs
 

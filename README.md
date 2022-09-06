@@ -35,7 +35,41 @@ Além de tudo isso a linguagem Python tem uma vasta documentação feita pela co
 
 ## Gerenciamento e Versionamento de Código
 
-Falar sobre o git
+Gerenciamento de código nada mais é do que monitorar e gerenciar mudanças feitas no código, fazer isso manualmente seria uma tarefa muito dificil já que para termo um bom controle é necessário que mantenhamos um histórico dessas alterações, que tivessemos um jeito seguro de agregar as novas alterações há um código que ja existe sem quebrar o seu comportamento etc. Para temos ferramentas de gerenciamento que nos permimtem manter esse histórico, mesclar o código, resolver conflitos existentes etc. A ferramente de gerenciamento de código mais robusta e mais utilizada que temos é o Git, sendo assim é de extrema importância que os desenvolvedores saibam usa-lá, na verdade saber git é um pré-requisito básico. 
+
+Entretanto assim como em todas as outras tecnologias existem niveis de git e aqui traremos materiais para que você aprenda o básico e continue aprendendo o quanto desejar evouluir nesta ferramenta. 
+
+### Introdução ao Git
+
+Se você nunca viu nada sobre git antes recomendo a leitura e execução dos materiais e tutoriais abaixo:
+
+- [O Básico do Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git)
+- [Git - O minímo que você precisa para saber trabalhar em equipe](https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe)
+- [Guia prático de git para iniciantes](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Resolvendo conflitos de Git](https://medium.com/zeroeumas/resolvendo-conflitos-de-git-a90097b2c4d4)
+- [Learning git Branching - Jogo Iterativo para aprender Git](https://learngitbranching.js.org/?locale=pt_BR)
+
+Além disso temos também os seguintes repositórios que são bem completos quanto aos ensinamentos de git porém recomendo a leitura destes depois que você já tiver criado uma afinidade com os comando básicos de git. 
+
+- [Git-flight-rules](https://github.com/Guia-Devops-Iniciante/git-flight-rules)
+
+Pra dar uma facilitada vou deixar aqui uma lista com os principais comandos básicos do git: 
+
+- $ git log -> leia até sobre git log --stat
+- $ git status
+- $ git diff
+- $ git add path/to/file
+- $ git add -p
+- $ git add .
+- $ git commit
+- git commit -m "A mensagem de commit"
+- git commit --amend
+- git pull
+- $ git pull --rebase
+- $ git rebase --continue
+- $ git push
+- $ git merge
+
 
 ## Gerenciamento de Servidores
 

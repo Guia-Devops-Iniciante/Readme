@@ -85,9 +85,18 @@ Pra dar uma facilitada vou deixar aqui uma lista com os principais comandos bás
 
 ## Infra como Código
 
-### Containers
+## Containers
 
-Docker e Kubernetes
+A containerização é um assunto muito importante e um conhecimento mais que necessário pra quem deseja ingressar na carreira de DevOps, aqui irei recomendar alguns materiais para o aprendizado de Docker e Kubernetes que atualmente são as ferramentas mais utilizadas para se trabalhar com containers.
+
+### Conteúdos para o aprendizado do Docker
+
+Caso você não tenha nenhuma intimidade com o docker recomendo fortemente todas as leituras/tutoriais etc, que vou listar aqui, esse material foi selecionado com o intuito de facilitar o máximo o aprendizado desta ferramenta:
+
+- [Docker Visão Geral](https://github.com/lorryaze/Guia-DevOps-Iniciante/blob/main/docker/docker.md)
+- [Livro Descomplicando o Docker](https://livro.descomplicandodocker.com.br/chapters/chapter_01.html)
+
+### Kubernetes
 
 ### Ferramentas de gerenciamento de configurações
 

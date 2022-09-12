@@ -114,4 +114,36 @@ AWS
 
 ## Conhecimentos fora do RoadMap DevOps para entrevistas de Emprego
 
+Depois de aprender todos os conceitos acima é hora de se preparar para as entrevistas de emprego que são um ponto crucial para quem deseja ingressar no mercado de trabalho, geralmente as entrevistas de emprego para cargos de desenvolvimento costumam ter MUITOS pontos em comum estja você aplicando para uma vaga de Dev Frontend ou para uma vaga de DevOps. Conceitos como clean code e solid, arquitetura, desing system, estruturas de dados e questões de lógica de programação costumam cair em quase TODOS os processos seletivos de big techs.
+
+Primeiramente já quero indicar a leitura do material disponivel neste repositório do git, ele foi criado com o intuito de preparar engenheiros de software a ingressarem em big techs como Amazon, Google etc, além de passar pelo principais tópicos que são abordados nestas entrevistas e anexa materiais muito interessantes sobre experiencias de pessoas que conseguiram passar nessas entrevistas e como elas fizeram isto. Eu realmente recomendo que queira você se tornar ou não um profissonal DevOps você faça a leitura e estude os conteúdos disponíveis neste repositório que é um achado muito completo e muito rico, neste repositório você encontra todas as informações sobre como se preparar para esse processo!:
+
+- **Link do repositório:** [Coding Interview University](https://github.com/Guia-Devops-Iniciante/coding-interview-university#the-daily-plan)
+
+Mas caso você não queira ler todo o conteúdo deste repositório eu vou deixar aqui um resumo do que acredito ser os principais conhecimentos esperados de uma pessoa Júnior para ingressar no mercado de trabalho, vou dar também algumas dicas que me ajudaram e ajudam já que também sou uma dev júnior que acabou de ingressar no mercado de trabalho, as recomendações que vou dar aqui são baseadas na minha experiência recente com processos seletivos de nível Júnior e com base nas leituras e pesquisas feitas para a realização do meu trabalho de conclusão de curso.
+
+### Minha experiência com entrevistas e dicas
+
+No fim do ano de 2021 até meados do inicio de 2022 eu estava aplicando para vagas de emprego como Dev Backend Júnior, fiz cerca de 5 processos seletivos e apliquei para cerca de 15 vagas, eu havia acabado de sair de um estágio e sentia a necessidade de ingressar no mercado de trabalho o mais depressa possível para melhorar a minha renda, como eu já estava no fim da faculdade decidi começar a aplicar, enviei currículos para diferentes empresas, recebi feedback da maioria, mesmo que fosse para dizer que meu perfil não se encaixava na vaga. 
+
+Para os processos seletivos que passei a maioria tinha como primeira fase um pequeno teste com **questões de programação**, e conversando com amigos que são da área percebi que essa etapa costuma ser um gargalo onde poucas pessoas conseguem seguir mas que é um ponto muito importante para as empresas, já que estas querem profissionais que tenham uma boa lógica de programação e que saibam resolver problemas de forma eficiente, talvez por isso essa seja na maioria dos casos a primeira etapa das entrevistas, que elimina boa parte dos candidatos.
+
+**E por quê isso acontece??**
+
+Durante a minha graduação tive a sorte de ter amigos e professores que prezavam muito pelo ensino e aprendizado de conceitos relacionados a **Estrutura de Dados** e pela prática da resolução de problemas de programação competitiva que basicamente abordam problemas classicos da computação e utiliza algoritmos e as estruturas de dados conhecidas para resolve-los, entretanto mesmo dentro da minha faculdade nem todo mundo teve acesso a esses conteúdos, ou melhor, tiveram acesso a teoria, mas pouquissimas pessoas sabiam resolver bem esses problemas de programação, e as que sabiam, sabiam pois estavam de alguma forma envolvidas com a programação competitiva. E não coincidentemente essas pessoas quando saiam da faculdade para o mercado de trabalho eram as que conseguiam ingressar no mercado de trabalho em empresas como Amazon, Google, Facebook e por ai vai... 
+
+Obviamente apenas isso não basta para que você consiga uma vaga como essas, mas esse é sem dúvidas um conhecimento que vai ser esperado de você, então sim é muito importante estudar esses conceitos e PRINCIPALMENTE PRÁTICAR! 
+
+**E onde eu posso praticar??**
+
+Se você não sabe nem por onde começar ou nunca teve contato com questões desse tipo, recomendo os exercícios do Beecrowd (antigo URI), nela você encontra exercícios iniciante que vão desde um "Hello Wolrd!" até problemas mais complexos de grafos, DP etc. (se você não ta entendendo esses termos recomendo voltar um pouco e ler o repo que recomendei ;))
+
+O beecrowd tem uma plataforma bem intuitiva e que tem o formato de juiz online, isso quer dizer que você submete o código da sua solução para o problema e ele avalia se a solução é válida ou não, durante a submissão do seu problema você pode se deparar com alguns termos como TLE, runtime error etc, para entendelos basta clicar [aqui](https://www.beecrowd.com.br/judge/pt/answers) e ler ;)
+
+- **Link Beecrowd**: [Beecrowd](https://www.beecrowd.com.br/)
+
+
+
+
+
 

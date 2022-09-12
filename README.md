@@ -118,7 +118,7 @@ Depois de aprender todos os conceitos acima é hora de se preparar para as entre
 
 Primeiramente já quero indicar a leitura do material disponivel neste repositório do git, ele foi criado com o intuito de preparar engenheiros de software a ingressarem em big techs como Amazon, Google etc, além de passar pelo principais tópicos que são abordados nestas entrevistas e anexa materiais muito interessantes sobre experiencias de pessoas que conseguiram passar nessas entrevistas e como elas fizeram isto. Eu realmente recomendo que queira você se tornar ou não um profissonal DevOps você faça a leitura e estude os conteúdos disponíveis neste repositório que é um achado muito completo e muito rico, neste repositório você encontra todas as informações sobre como se preparar para esse processo!:
 
-- **Link do repositório:** [Coding Interview University](https://github.com/Guia-Devops-Iniciante/coding-interview-university#the-daily-plan)
+- ### **Link do repositório:** [Coding Interview University](https://github.com/Guia-Devops-Iniciante/coding-interview-university#the-daily-plan)
 
 Mas caso você não queira ler todo o conteúdo deste repositório eu vou deixar aqui um resumo do que acredito ser os principais conhecimentos esperados de uma pessoa Júnior para ingressar no mercado de trabalho, vou dar também algumas dicas que me ajudaram e ajudam já que também sou uma dev júnior que acabou de ingressar no mercado de trabalho, as recomendações que vou dar aqui são baseadas na minha experiência recente com processos seletivos de nível Júnior e com base nas leituras e pesquisas feitas para a realização do meu trabalho de conclusão de curso.
 

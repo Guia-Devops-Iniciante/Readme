@@ -140,7 +140,14 @@ Se você não sabe nem por onde começar ou nunca teve contato com questões des
 
 O beecrowd tem uma plataforma bem intuitiva e que tem o formato de juiz online, isso quer dizer que você submete o código da sua solução para o problema e ele avalia se a solução é válida ou não, durante a submissão do seu problema você pode se deparar com alguns termos como TLE, runtime error etc, para entendelos basta clicar [aqui](https://www.beecrowd.com.br/judge/pt/answers) e ler ;)
 
-- **Link Beecrowd**: [Beecrowd](https://www.beecrowd.com.br/)
+- **Link Beecrowd**: [Beecrowd](https://www.beecrowd.com.br/). 
+
+Outras ótimas opções são o LeetCode e o HackerRank que tem até as questões que mais costumam cair nas entrevistas (e cai mesmo pois em uma das entrevistas que fiz caiu um exercicio igual a uma que eu ja havia feito no leetcode), então recomendo fortemente que você resolva MUITAS questões e tente ir progredindo quando sentir que está ficando muito fácil. Lembre-se que a prática leva a perfeição e quanto mais prática mais rápido você irá responder as questões, vale lembrar que nessa etapa do processo seletivo costuma-se ter um tempo para a solução de um determinado número de questões.
+
+**DICA: Os problemas dos processos seletivos costumam ter pesos, e esse peso aumenta de acordo com a dificuldade do problema, sendo assim tente resolver as questões masi faceis o mais rápido possível para que você possa ter mais tempo para fazer as questões mais dificeis, recomendo também começar pelas mais complicadas já que essas valem mais pontos, entretanto se você perceber que empacou numa questão vá para a próxima e retorne depois**
+
+- **Link LeetCode**: [LeetCode](https://leetcode.com/problemset/all/). 
+- **Link HackerRank**: [HackerRank](https://www.hackerrank.com/auth/signup). 
 
 
 

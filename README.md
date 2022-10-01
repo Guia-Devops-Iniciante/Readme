@@ -19,7 +19,7 @@ Para se tornar um profissional devops você precisa aprender conceitos relaciona
 
 Baseado no [Roadmap DevOps](https://roadmap.sh/devops) e no perfil do profissional DevOps Júnior traçado nas pesquisas realizadas para o TCC1, elaboramos o seguinte roadmap de conhecimentos que são essenciais ou aconselhaveis para quem deseja iniciar na área.
 
-<img width="1002" alt="image" src="https://user-images.githubusercontent.com/30262806/188697339-de793e52-2d08-445d-bff6-4c586baab38c.png">
+<img width="1100" alt="image" src="https://user-images.githubusercontent.com/30262806/193422397-03463337-b303-4b83-bc72-adcaf163c5f1.png">
 
 ## Por que utilizar este conteúdo?
 
@@ -73,15 +73,19 @@ Pra dar uma facilitada vou deixar aqui uma lista com os principais comandos bás
 
 ## Gerenciamento de Servidores
 
-### Sistemas operacionais 
+## Sistemas operacionais 
 
-## Trabalhar utilizando o Terminal
+## Aprender a trabalhar no Terminal
 
-## Redes e Protocolos
+**Tutorial de BashScripting no Ubuntu para iniciantes**: https://help.ubuntu.com/community/Beginners/BashScripting
+
+## Redes, Segurança e Protocolos
+
+#### O que é e como configurar
 
 ## Servidores Web
 
-## Aprender ferramentas de CI/CD
+## CI/CD
 
 ## Infra como Código
 

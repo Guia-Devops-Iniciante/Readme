@@ -75,9 +75,30 @@ Pra dar uma facilitada vou deixar aqui uma lista com os principais comandos bás
 
 ## Sistemas operacionais 
 
-## Aprender a trabalhar no Terminal
+Antes de partir para os conceitos que vamos aprender abaixo você irá precisar instalar uma distro de um sistema operacional Unix-like para que você possa trabalhar no terminal, aprender as ferramentas do linux etc. 
 
-**Tutorial de BashScripting no Ubuntu para iniciantes**: https://help.ubuntu.com/community/Beginners/BashScripting
+Caso você ainda não seja um usuário Linux recomendo a instalação da distro Ubuntu, que é uma distro bem completa, baseada no Debian e acredito que uma das mais amigáveis para quem esta iniciando, se você já é um usuário do Windows você pode ou criar uma VM com o Ubuntu no windows, ou fazer um dual-boot, ou seja, ter os dois sistemas operacionais instalados:
+
+- [**Tutorial de uso do Ubuntu no VirtualBox (Uso do Ubuntu em VM)**](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
+- [**Vídeo de instalação do VirtualBox com o Ubuntu no Windows**](https://www.youtube.com/watch?v=x5MhydijWmc)
+
+Agora caso você deseje fazer o dual-boot recomendo o seguinte vídeo que explica bem como fazer este processo:
+
+- [**Como fazer DUAL BOOT com Windows 10 e Linux - Tutorial FÁCIL - 2021**](https://www.youtube.com/watch?v=6D6L9Wml1oY)
+
+Agora que você já instalou o Ubuntu, vamos para os conceitos de SO.
+
+### Conceitos de SO
+
+- [**Conceitos de OS para DevOps**](https://github.com/Tikam02/DevOps-Guide/blob/master/OS/os-concepts.md#os-concepts-for-devops)
+
+### Aprender a trabalhar no Terminal
+
+- [**Tutorial de BashScripting no Ubuntu para iniciantes**](https://help.ubuntu.com/community/Beginners/BashScripting)
+- [**Curso gratuito Bash for Programmers**](https://www.educative.io/courses/bash-for-programmers?authorName=Educative%3Faffiliate_id%3D5073518643380224)
+- [**Curso gratuito Complete Linux Command Line, Linux Administration & Unix OS**](https://www.udemy.com/course/complete-linux-command-line-linux-administration-unix-os/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-hP3DnEV6ihG_bdvoAXISTw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+- [**Curso Gratuito Intro to Linux Shell Scripting**](https://www.udemy.com/course/linux-shell-scripting-free/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-2nx0uT8QyWysrFZQx_44Fg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+- [**Linux Comands**](https://github.com/Tikam02/DevOps-Guide/blob/master/OS/os-commands.md)
 
 ## Redes, Segurança e Protocolos
 
@@ -112,7 +133,7 @@ Terraform
 
 ## Provedores de Nuvem
 
-AWS
+- **Documentação dos serviços AWS (Amazon EC2, Amazon SDK, Amazon EKS etc):** https://docs.aws.amazon.com/index.html
 
 ## Monitoramento e Gerenciamento de logs
 
@@ -154,7 +175,8 @@ Outras ótimas opções são o LeetCode e o HackerRank que tem até as questões
 - **Link HackerRank**: [HackerRank](https://www.hackerrank.com/auth/signup). 
 
 
+## Outros conteúdos que podem ajudar no desenvolvimento DevOps
 
-
-
-
+- https://github.com/CSC-DevOps 
+- https://github.com/raycad/devops-roadmap
+- https://github.com/Tikam02/DevOps-Guide

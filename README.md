@@ -99,8 +99,14 @@ Agora que você já instalou o Ubuntu, vamos para os conceitos de SO.
 - [**Curso gratuito Complete Linux Command Line, Linux Administration & Unix OS**](https://www.udemy.com/course/complete-linux-command-line-linux-administration-unix-os/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-hP3DnEV6ihG_bdvoAXISTw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 - [**Curso Gratuito Intro to Linux Shell Scripting**](https://www.udemy.com/course/linux-shell-scripting-free/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-2nx0uT8QyWysrFZQx_44Fg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 - [**Linux Comands**](https://github.com/Tikam02/DevOps-Guide/blob/master/OS/os-commands.md)
+- [Sistemas Operacionais: Projeto e Implementação - Andrew S. Tanenbaum](https://www.amazon.com.br/Sistemas-Operacionais-Implementa%C3%A7%C3%A3o-Andrew-Tanenbaum/dp/8577800571)
+
 
 ## Redes, Segurança e Protocolos
+
+- [Networking Concepts](https://github.com/Tikam02/DevOps-Guide/blob/master/Networking/networking-concepts.md)
+- [NetWorking Commands on bash](https://github.com/Tikam02/DevOps-Guide/blob/master/Networking/networking-commands.md)
+
 
 #### O que é e como configurar
 
@@ -178,5 +184,5 @@ Outras ótimas opções são o LeetCode e o HackerRank que tem até as questões
 ## Outros conteúdos que podem ajudar no desenvolvimento DevOps
 
 - https://github.com/CSC-DevOps 
-- https://github.com/raycad/devops-roadmap
-- https://github.com/Tikam02/DevOps-Guide
+- [Livros DevOps](https://github.com/Tikam02/DevOhttps://github.com/Tikam02/DevOps-Guide
+- [DevOps RoadMap](https://github.com/raycad/devops-roadmap)

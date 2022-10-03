@@ -48,6 +48,7 @@ Se você nunca viu nada sobre git antes recomendo a leitura e execução dos mat
 - [Guia prático de git para iniciantes](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [Resolvendo conflitos de Git](https://medium.com/zeroeumas/resolvendo-conflitos-de-git-a90097b2c4d4)
 - [Learning git Branching - Jogo Iterativo para aprender Git](https://learngitbranching.js.org/?locale=pt_BR)
+- [Vídeo - [ChatBoss 1.2] Introdução ao Git e contribuição colaborativa](https://www.youtube.com/watch?v=hBu6fYH07nQ&list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl&index=4)
 
 Além disso temos também os seguintes repositórios que são bem completos quanto aos ensinamentos de git porém recomendo a leitura destes depois que você já tiver criado uma afinidade com os comando básicos de git. 
 
@@ -81,6 +82,7 @@ Caso você ainda não seja um usuário Linux recomendo a instalação da distro 
 
 - [**Tutorial de uso do Ubuntu no VirtualBox (Uso do Ubuntu em VM)**](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
 - [**Vídeo de instalação do VirtualBox com o Ubuntu no Windows**](https://www.youtube.com/watch?v=x5MhydijWmc)
+- [**Vídeo ChatBoos - Entendo o Sistema Operacional Linux e guia de instalação**](https://youtu.be/oznI9gGAMvI?list=PLFFHHqnY3q2EonAhF5KeIZFPNM40mnmJl&t=675)
 
 Agora caso você deseje fazer o dual-boot recomendo o seguinte vídeo que explica bem como fazer este processo:
 
@@ -129,6 +131,9 @@ Caso você não tenha nenhuma intimidade com o docker recomendo fortemente todas
 
 ### Kubernetes
 
+- [Kubernetes Concepts](https://github.com/Tikam02/DevOps-Guide/blob/master/Container-orchestration/kubernetes/kuber-concepts.md)
+- [Kubernetes Commands](https://github.com/Tikam02/DevOps-Guide/blob/master/Container-orchestration/kubernetes/kubernetes-commands.md)
+
 ### Ferramentas de gerenciamento de configurações
 
 Para que possamos gerenciar os recursos do sistema como servidores, bancos de dados, máquinas virtuais etc, precisamos de um gerenciador de configuração. Eles irão nos ajudar a implantar modificações no nosso sistema, de forma controlada e segura, estes também irão rastrear o estado do sistema, evitando assim comportamentos que possam gerar alguma instabilidade, tudo isto é feito através de código que pode ser versionado e reutilizado, isto faz com que seja fácil alterar comportamentos no servidor sem grandes complicações. No mercado existem diversas ferramentas disponíveis para isso como o Chef, Ansible, Puppet, etc.
@@ -149,7 +154,7 @@ Terraform
 
 ## Provedores de Nuvem
 
-- [**Documentação dos serviços AWS (Amazon EC2, Amazon SDK, Amazon EKS etc):**](https://docs.aws.amazon.com/index.html)
+- [**Documentação dos serviços AWS (Amazon EC2, Amazon SDK, Amazon EKS etc)**](https://docs.aws.amazon.com/index.html)
 
 ## Monitoramento e Gerenciamento de logs
 
@@ -169,7 +174,7 @@ No fim do ano de 2021 até meados do inicio de 2022 eu estava aplicando para vag
 
 Para os processos seletivos que passei a maioria tinha como primeira fase um pequeno teste com **questões de programação**, e conversando com amigos que são da área percebi que essa etapa costuma ser um gargalo onde poucas pessoas conseguem seguir mas que é um ponto muito importante para as empresas, já que estas querem profissionais que tenham uma boa lógica de programação e que saibam resolver problemas de forma eficiente, talvez por isso essa seja na maioria dos casos a primeira etapa das entrevistas, que elimina boa parte dos candidatos.
 
-**E por quê isso acontece??**
+**E por quê isso acontece?**
 
 Durante a minha graduação tive a sorte de ter amigos e professores que prezavam muito pelo ensino e aprendizado de conceitos relacionados a **Estrutura de Dados** e pela prática da resolução de problemas de programação competitiva que basicamente abordam problemas classicos da computação e utiliza algoritmos e as estruturas de dados conhecidas para resolve-los, entretanto mesmo dentro da minha faculdade nem todo mundo teve acesso a esses conteúdos, ou melhor, tiveram acesso a teoria, mas pouquissimas pessoas sabiam resolver bem esses problemas de programação, e as que sabiam, sabiam pois estavam de alguma forma envolvidas com a programação competitiva. E não coincidentemente essas pessoas quando saiam da faculdade para o mercado de trabalho eram as que conseguiam ingressar no mercado de trabalho em empresas como Amazon, Google, Facebook e por ai vai... 
 
@@ -197,3 +202,4 @@ Outras ótimas opções são o LeetCode e o HackerRank que tem até as questões
 - https://github.com/CSC-DevOps 
 - [Livros DevOps](https://github.com/Tikam02/DevOps-Guide)
 - [DevOps RoadMap](https://github.com/raycad/devops-roadmap)
+- [[Talk like a BOSS #2] - Desenvolvendo jogos na Wildlife (parte que fala sobre a infraestrutura de um jogo)](https://youtu.be/6du9815E5eM?t=3821)

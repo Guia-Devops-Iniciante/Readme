@@ -131,7 +131,17 @@ Caso você não tenha nenhuma intimidade com o docker recomendo fortemente todas
 
 ### Ferramentas de gerenciamento de configurações
 
-Ansible, Chef, Salt, Puppet
+Para que possamos gerenciar os recursos do sistema como servidores, bancos de dados, máquinas virtuais etc, precisamos de um gerenciador de configuração. Eles irão nos ajudar a implantar modificações no nosso sistema, de forma controlada e segura, estes também irão rastrear o estado do sistema, evitando assim comportamentos que possam gerar alguma instabilidade, tudo isto é feito através de código que pode ser versionado e reutilizado, isto faz com que seja fácil alterar comportamentos no servidor sem grandes complicações. No mercado existem diversas ferramentas disponíveis para isso como o Chef, Ansible, Puppet, etc.
+
+O gerenciamento de configuração está fortemente ligado a IaC, devido a parte de automatização e escalabilidade, já que essas ferramentas nos ajudam a manter o ambiente no estado desejado. 
+
+Como recomendação de aprendizado neste roadmap escolhemos o Ansible que é atualmente o gerenciador de configurações mais utilizado no mercado, abaixo recomendamos alguns materiais para o aprendizado da ferramenta.
+
+- [Ansible Concepts](https://github.com/Tikam02/DevOps-Guide/blob/master/Infrastructure-provisioning/Ansible/ansible-concepts.md)
+- [Introdução ao Ansible](https://www.redhat.com/pt-br/topics/automation/learning-ansible-tutorial)
+- [An Introduction to Configuration Management](https://www.digitalocean.com/community/tutorials/an-introduction-to-configuration-management)
+- [Gerenciamento de Configuração 101: Escrevendo Playbooks Ansible](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks-pt)
+- [Getting Started With Ansible](https://medium.com/swlh/getting-started-with-ansible-ee31be8c6a75)
 
 ### Provisionamento de Infra
 
@@ -139,7 +149,7 @@ Terraform
 
 ## Provedores de Nuvem
 
-- **Documentação dos serviços AWS (Amazon EC2, Amazon SDK, Amazon EKS etc):** https://docs.aws.amazon.com/index.html
+- [**Documentação dos serviços AWS (Amazon EC2, Amazon SDK, Amazon EKS etc):**](https://docs.aws.amazon.com/index.html)
 
 ## Monitoramento e Gerenciamento de logs
 
@@ -179,10 +189,11 @@ Outras ótimas opções são o LeetCode e o HackerRank que tem até as questões
 
 - **Link LeetCode**: [LeetCode](https://leetcode.com/problemset/all/). 
 - **Link HackerRank**: [HackerRank](https://www.hackerrank.com/auth/signup). 
+- [**Interview Questions DevOps**](https://github.com/Tikam02/DevOps-Guide/blob/master/Interview/Dev-ops-Interview.md)
 
 
 ## Outros conteúdos que podem ajudar no desenvolvimento DevOps
 
 - https://github.com/CSC-DevOps 
-- [Livros DevOps](https://github.com/Tikam02/DevOhttps://github.com/Tikam02/DevOps-Guide
+- [Livros DevOps](https://github.com/Tikam02/DevOps-Guide)
 - [DevOps RoadMap](https://github.com/raycad/devops-roadmap)

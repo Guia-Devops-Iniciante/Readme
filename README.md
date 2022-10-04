@@ -21,17 +21,34 @@ Baseado no [Roadmap DevOps](https://roadmap.sh/devops) e no perfil do profission
 
 <img width="1100" alt="image" src="https://user-images.githubusercontent.com/30262806/193422397-03463337-b303-4b83-bc72-adcaf163c5f1.png">
 
-## Por que utilizar este conteúdo?
 
-# Plano de Estudo (tipo um sumário)
+# Plano de Estudo 
 
-## Como Utilizar o Plano de estudo
+Para facilitar o aprendizado dos conhecimentos traçados no roadmap criamos o seguinte plano de estudo:
+
+- [Linguagem de programação (script)](#linguagem-de-programação-script)
+- [Gerenciamento e Versionamento de Código](#gerenciamento-e-versionamento-de-código)
+- [Gerenciamento de Servidores](#gerenciamento-de-servidores)
+- [Sistemas operacionais ](#sistemas-operacionais)
+- [Redes, Segurança e Protocolos](#redes-segurança-e-protocolos)
+- [Servidores Web](#servidores-web)
+- [CI/CD](#cicd)
+- [Infra como Código](#infra-como-código)
+- [Containers](#containers)
+- [Provisionamento de Infra](#provisionamento-de-infra)
+- [Provedores de nuvem](#provedores-de-nuvem)
+- [Monitoramento e Gerenciamento de logs](#monitoramento-e-gerenciamento-de-logs)
+- [Conhecimentos fora do RoadMap DevOps para entrevistas de Emprego](#conhecimentos-fora-do-roadmap-devops-para-entrevistas-de-emprego)
+- [Outros conteúdos que podem ajudar no desenvolvimento DevOps](#outros-conteúdos-que-podem-ajudar-no-desenvolvimento-devops)
 
 ## Linguagem de programação (script)
 
 O primeiro passo para quem deseja ingressar na carreira de DevOps é aprender uma linguagem de programação, de preferência uma linguagem de script. Neste roadmap recomendei Python como principal liguagem a ser aprendida primeiro por que através da análise de vagas realizada na parte 1 deste trabalho é possível observar que Python é um pré-requisito obrigatório para a grande maioria das vagas de DevOps Júnior, de 14 vagas observadas 7 pediam Pyhton e as outras 7 não especificavam uma linguagem de programação. De acordo com a [Pesquisa de Desenvolvimento  2021](https://insights.stackoverflow.com/survey/2021#developer-profile-key-territoriesfeita) pelo StackOverflow temos Python (48.24%) como a segunda linguagem de programação mais popular entre os desenvolvedores.
 
 Além de tudo isso a linguagem Python tem uma vasta documentação feita pela comunidade de Python que é muito engajada, isso facilita muito o aprendizado da linguagem, além disso Python tem uma sintaxe intuitiva e é uma linguagem muito robusta e completa.
+
+- [Curso de Python 3 - Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&t=33s)
+- [Practice Python](https://github.com/jwasham/practice-python)
 
 ## Gerenciamento e Versionamento de Código
 
@@ -116,6 +133,10 @@ Agora que você já instalou o Ubuntu, vamos para os conceitos de SO.
 
 ## CI/CD
 
+- [Jenkins getting started](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
+- [Jenkins Creating your first pipeline](https://www.jenkins.io/doc/pipeline/tour/hello-world/)
+
+
 ## Infra como Código
 
 ## Containers
@@ -148,7 +169,7 @@ Como recomendação de aprendizado neste roadmap escolhemos o Ansible que é atu
 - [Gerenciamento de Configuração 101: Escrevendo Playbooks Ansible](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks-pt)
 - [Getting Started With Ansible](https://medium.com/swlh/getting-started-with-ansible-ee31be8c6a75)
 
-### Provisionamento de Infra
+## Provisionamento de Infra
 
 Terraform
 
